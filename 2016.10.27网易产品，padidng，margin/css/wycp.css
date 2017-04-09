@@ -1,0 +1,58 @@
+#box{
+	width:300px;
+	heigth:417px ;
+	border-top:2px solid #206f96;
+}
+#head{
+	width:288px;
+	height:29px;
+	border-left: 1px solid #cfcfcf;
+	border-right: 1px solid #cfcfcf;
+	background:url(../img/head10.jpg) repeat-x;
+	font: bold 14px/29px "宋体";
+	padding-left:9px ;
+}
+#content{
+	width:298px;
+	height:386px;
+	border:1px solid #cfcfcf ;
+	font: 12px/25px "宋体";
+	word-spacing: 4px;
+	font-size: 12px;
+	line-height: 25px;
+}
+#youxiang{
+	width:248px;
+	height:38px;
+	background:16px 25px url(../img/youxiang.jpg) no-repeat;
+	padding-left:50px;
+	padding-top:19px;
+}
+#shubiao{
+	width:248px;
+	height:113px;
+	background:9px 51px url(../img/shubiao.jpg) no-repeat #f7f7f7;
+	padding-left:50px;
+	padding-top:13px;
+}
+#xiaolian{
+	width:248px;
+	height:63px;
+	background:15px 25px url(../img/xiaolian.jpg) no-repeat;
+	padding-left:50px;
+	padding-top:13px;
+}
+#xingxing{
+	width:248px;
+	height:114px;
+	background: 12px 49px url(../img/xingxing.jpg) no-repeat #f7f7f7;
+	padding-left:50px;
+	padding-top:13px;
+}
+a{
+	text-decoration: none;
+	color: #000000;
+	white-space: nowrap;
+}
+#b{
+	font-family: arial;
