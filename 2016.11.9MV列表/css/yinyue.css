@@ -1,0 +1,93 @@
+h3,body{
+	margin: 0;
+}
+a{
+	text-decoration: none;
+}
+ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+img{
+	vertical-align: top;
+	border: ;
+}
+.box{
+	width: 332px;
+	height: 472px;
+}
+.head{
+	margin-bottom: 14px;
+}
+h3{
+	width: 111px;
+	height: 26px;
+	padding: 2px 0px 2px 10px;
+	border-left: 5px solid #8bcc00;
+}
+h3,.pic{
+	float: left;
+}
+.clearfix:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+.pic{
+	margin-left: 8px;
+}
+.picer{
+	margin-left: 2px;
+}
+.zi{
+	font: 12px/30px "宋体";
+	float: right;
+}
+.shu{
+	float: right;
+	width: 1px;
+	height: 12px;
+	background-color: #000000;
+	margin: 0 7px;
+	margin-top: 10px;
+	
+}
+.lv{
+	color: #0f820c;
+}
+.hei{
+	font-weight: bold;
+	color: #333333;
+}
+.list{
+	
+	height: 24px;
+	width: 332px;
+	border-bottom: 1px dotted #FFFFFF;
+	float: left;
+	margin:5px  0;
+}
+.song{
+	font: 14px "宋体";
+	color: #0f820c;
+}
+.heng,.singer{
+	color: #515151;
+}
+.time{
+	font-size: 12px;
+	color: #c0c0c0;
+	/*line-height: 36px;*/
+	float: right;
+}
+.list:hover{
+	height: 24px;
+	width: 332px;
+	border-bottom: 1px dotted #E1E1E1;
+background: url(../img/hover.jpg) no-repeat 242px 5px;
+float: left;
+}
+.list:hover .time{
+	display: none;
+}
