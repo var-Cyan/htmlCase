@@ -1,0 +1,113 @@
+body{
+	margin: 0;
+}
+img{
+	vertical-align: top;
+	border: none;
+}
+a{
+	text-decoration: none;
+}
+ul{
+	margin:0 ;
+	padding: 0;
+	list-style: none;
+}
+.clearfix:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+.bian{
+	border-top:3px solid #abe27d  ;
+	width: 162px;
+	float: left;
+}
+.box{
+	
+	width: 140px;
+	height: 418px;
+	border-left: 1px solid #dddddd;
+	border-bottom: 1px solid #dddddd;
+	margin-top: -1px;
+	padding-left: 10px ;
+	padding-right: 11px;
+}
+.head{
+	padding-top:2px;
+	font: 16px/40px "微软雅黑";
+	padding-left: 39px;
+}
+.kong{
+	width: 136px;
+	height: 96px;
+	border: 1px solid #dcdcde;
+	padding: 1px;
+	overflow: hidden ;
+}
+.name{
+	font: 14px/24px "宋体";
+	color: #3f3f3f
+}
+.qxd{
+	font-size: 8px;
+	color: #bbbbbb;
+}
+.xtb{
+	float: right;
+	padding-top: 7px;
+}
+.content{
+	margin-bottom: 5px;
+}
+.jiam{
+	padding-bottom: 10px;
+	border-bottom: 1px dashed #dddddd;
+}
+.hei{
+	display: block;
+	padding-top: 8px;
+	color: #3d3d3d;
+	font: 14px/20px "宋体";
+}
+.hui,.xiao{
+	font: 8px "宋体";
+	color: #ababab;
+}
+.gai{
+	width: 159px;
+}
+.zuihou{
+	padding-left: 9px ;
+	padding-right: 9px;
+}
+.youbian{
+	height: 421px;
+	float: right;
+	border-right: 1px solid #dddddd; 
+	margin-top: -421px;
+}
+.lv{
+	color:#abe27d ;
+}
+.fen{
+	color: #e187c4;
+	border-top-color: #e187c4;
+}
+.hui{
+	color: #a6a6a6;
+	border-top-color: ##a6a6a6;
+}
+.lan{
+	color: #7ec0d8;
+	border-top-color: #7ec0d8;
+}
+.hong{
+	color: #e18786;
+	border-top-color: #e18786;
+}
+.huang{
+	color: #e5cc6f;
+	border-top-color: #e5cc6f;
+	
+}
