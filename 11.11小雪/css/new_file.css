@@ -1,0 +1,162 @@
+body,p,h3{
+	margin: 0;
+}
+img{
+	vertical-align: top;
+	border: none;
+}
+a{
+	text-decoration: none;
+}
+ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.clearfix:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+.bbox{
+	width: 410px;
+	height: 702px;
+	border: 1px solid #d35056;
+}
+.boxyi{
+	width: 370px;
+	height: 257px;
+	padding: 18px 20px 15px 20px;
+	border-bottom: 2px solid #d35056 ;
+	background-color: #fbedee;
+}
+.head{
+	width: 370px;
+	height: 22px;
+	/*white-space: normal;
+	overflow: hidden;*/
+	/*background: url(huawenyi.jpg) no-repeat 104px 6px;*/
+}
+.shiyan{
+	/*width: 210px;
+	height: 10px;*/
+	padding-top:7px ;
+	padding-left: 7px;
+}
+.yc{
+	float: left;
+	padding-top: 2px;
+}
+.jjzt{
+	font: bold 18px/22px "宋体";
+	color: #d35056;
+	float: left;
+	margin-left:8px ;
+}
+.more{
+	float: right;
+	font: bold 14px/22px arial,"宋体";
+	color: #d35056;
+}
+.jieqi{
+	font: bold 16px/46px "宋体";
+	color: #000000;
+}
+.pic{
+	float: left;
+	width: 120px;
+	height: 170px;
+	padding: 4px;
+	border: 1px solid #b5b5b5;
+	background-color: #FFFFFF;
+	margin-left: 1px;
+	margin-right: 13px;
+	margin-bottom: 24px;
+}
+.xiaxie{
+	width: 218px;
+	font: 12px/26px "微软雅黑";
+	color: #6a6a6a;
+	float: left;
+	margin-top: -4px;
+	margin-bottom: 11px;
+}
+.hong{
+	color: #d35056;
+}
+.xubian{
+	border-top: 1px dashed #e5e5e5;
+	width: 208px;
+	float: left;
+	margin-left: 10px;
+	margin-bottom: 7px;
+}
+.movie{
+	height: 32px;
+}
+.dy{
+	font: 14px/32px arial,"宋体";
+	color: #000000;
+	float: left;
+	padding-left: 8px;
+	background: url(../img/fendian.jpg) no-repeat 0 12px;
+}
+.boxer{
+	width: 370px;
+	height: 185px;
+	padding: 0px 20px 15px 20px ;
+	border-bottom:1px solid #d35056 ;
+	background-color: #ffffff;
+}
+.header{
+	width: 370px;
+	height: 54px;
+	background: url(../img/ertiao.jpg) no-repeat 104px 23px;
+	margin-bottom: 3px;
+}
+.xtb{
+	float: left;
+	padding-top: 18px;
+}
+.jkjc{
+	float: left;
+	font: bold 18px/54px "宋体";
+	margin-left: 8px;
+	color: #d35056;
+}
+.ermore{
+	float: right;
+	font: bold 14px/54px arial,"宋体";
+	color: #d35056;
+}
+.left{
+	float: left;
+	width: 185px;
+	height: 32px;
+}
+.lefttext{
+	font: 14px/32px arial,"宋体";
+	color: #000000;
+	float: left;
+	padding-left: 18px;
+	background: url(../img/fendian.jpg) no-repeat 1px 12px;
+}
+.content{
+	width: 370px;
+	height: 128px;
+}
+.bian{
+	font-family: "仿宋";
+}
+.boxsan{
+	padding-bottom: 19px;
+	padding-top: 5px;
+	background-color: #fbedee;
+}
+/*.yc,.jjzt,.pic,.xiaxie,.xubian,.dy,.xtb,.jkjc,.left,.lefttext{
+	float: left;
+}
+.jjzt,.more,.hong,.jkjc,.ermore{
+	color: #d35056;
+}*/
+
