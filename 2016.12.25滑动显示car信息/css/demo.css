@@ -1,0 +1,133 @@
+/************8css reset**********/
+body{
+	margin: 0;
+}
+
+ol, li{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+img{
+	vertical-align: top;
+	border: none;
+}
+
+a{
+	text-decoration: none;
+}
+/*************main***************/
+.list_car{
+	width: 300px;
+	margin: 50px auto;
+	font: 12px/26px arial,"宋体";
+}
+
+.list_car .car{
+	border-bottom: 1px dashed #dcdcdc;
+}
+
+.car .item_left{
+	margin-right: 14px;
+	padding-top: 5px;
+	float: left;
+}
+
+.item_left .list_style{
+	width: 21px;
+	height: 18px;
+	background: #999;
+	text-align: center;
+	line-height: 18px;
+	color: #fff;
+}
+
+.item_left .list_style.top_three{
+	background: #942f25;
+}
+
+.item_left .car_pic{
+	width: 82px;
+	height: 34px;
+	margin: 2px 7px 0 5px;
+	overflow: hidden;
+	display: none;
+}
+
+.car .item_right{
+	width: 262px;
+	padding-top: 0;
+	float: left;
+}
+
+.item_right .carname{
+	float: left;
+}
+
+.item_right .car_info{
+	width: 50%;
+	line-height: 26px;
+	padding-right: 2px;
+	float: right;
+}
+
+.car_info .year{
+	float: left;
+	color: #888888;
+	display: none;
+}
+
+.car_info .price{
+	float: right;
+	color: #c71012;
+}
+
+.item_right .car_tag{
+	margin: 11px 0 8px 0;
+	float: left;
+	line-height: 14px;
+	display: none;
+}
+
+.item_right .car_tag span{
+	padding-right: 33px;
+}
+
+.car_tag .outlook{
+	padding-left: 24px;
+	background: url(../img/bg_out.jpg) no-repeat;
+	color: #325281;
+}
+/*************clearfix***************/
+.clearfix{
+	zoom: 1;
+}
+
+.clearfix:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+/**************hover***************/
+.car:hover .car_pic, .car:hover .year,  .car:hover .car_tag{
+	display: block;
+}
+.car:hover .item_left{
+	margin-right: 9px;
+	padding-top: 6px;
+}
+
+.car:hover .item_right{
+	width: 197px;
+	padding: 7px 0;
+}
+
+.car:hover .carname{
+	font-weight: bold;
+}
+
+.car:hover .car_info{
+	width: 197px;
+	line-height: 12px;
+}
