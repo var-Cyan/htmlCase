@@ -1,0 +1,93 @@
+body{
+	margin: 0;
+}
+img{
+	vertical-align: top;
+	border: none;
+}
+a{
+	text-decoration: none;
+}
+ul{
+	margin:0 ;
+	padding: 0;
+	list-style: none;
+}
+body{
+	font: 12px arial,"宋体";
+}
+.clearfix:hover{
+	content: "";
+	display: block;
+	clear: both;
+}
+.box{
+	width: 680px;
+}
+.head{
+	height: 28px;
+	width: 680px;
+	margin-bottom: 7px;
+}
+.zi{
+	font: 12px/28px "宋体";
+	float: left;
+	color: #333333;
+}
+.tu{
+	float: right;
+}
+.zuo{
+	margin-right:2px;
+}
+.list{
+	width: 333px;
+	height: 140px;
+	background-color: #f3f3f3;
+	border: 1px solid #e6e6e6;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.yi{
+	padding-left:10px ;
+	padding-top: 10px;
+	margin-right:10px ;
+	float: left;
+}
+.photo{
+	display: block;
+
+	width: 80px;
+	height: 80px;
+	overflow: hidden;
+	margin-bottom: 12px;
+}
+.guanzhu{
+	display: block;
+	width: 54px;
+	height: 22px;
+	overflow: hidden;
+	margin-left: 13px;
+}
+.name{
+	padding-top: 7px;
+	color: #0a8cd2;
+	font-weight: bold;
+}
+.name,.jj,.gx{
+	display: block;
+}
+.jj{
+	color: #808080;
+}
+.er{
+	font: 12px/20px "宋体";
+}
+.xiao{
+	margin-left: 6px;
+	margin-top: 3px;
+}
+.xiaom{
+	margin: 0;
+}
