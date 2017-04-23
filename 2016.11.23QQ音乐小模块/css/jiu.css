@@ -1,0 +1,104 @@
+body,h3{
+	margin: 0px;
+}
+img{
+	vertical-align: top;
+	border: none;
+}
+a{
+	text-decoration: none;
+}
+ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.clearfix:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+.box{
+	width: 334px;
+	height: 483px;
+}
+.head{
+	border-left:5px solid #8bcc00 ;
+	padding-left: 10px;
+	margin-bottom: 19px;
+}
+.shoubo{
+	display: block;
+	width: 111px;
+	height: 30px;
+	background: url(../img/zxtj.jpg) no-repeat;
+	text-indent: -9999px;
+}
+.pic{
+	width: 30px;
+	height: 30px;
+}
+.title,.headpic{
+	float: left;
+}
+.headpic{
+	margin-left: 8px;
+}
+.picyi{
+	margin-right: 2px;
+}
+.zi{
+	float: left;
+	font: 12px/30px "宋体";
+	height: 30px;
+}
+.shu{
+	float: left;
+	width: 1px;
+	height: 12px;
+	background-color:#d8d8d8 ;
+	margin: 0px 8px;
+	margin-top: 10px;
+}
+.text{
+	float: right;
+}
+.lv{
+	color: #0f820c;
+}
+.hei{
+	color: #333333;
+	font-weight: bold;
+}
+.list{
+	height: 35px;
+	width: 332px;
+	border-bottom: 1px dotted #fff;
+	float: left;
+}
+.song{
+	font: 14px "宋体";
+	color: #0f820c;
+}
+.heng,.singer{
+	color: #515151;
+}
+.time{
+	font-size: 12px;
+	color: #c0c0c0;
+	float: right;
+	padding-top: 2px;
+}
+.list:hover{
+	width: 332px;
+	height: 35px;
+	background: url(../img/fu.jpg) no-repeat 242px 5px;
+	border-bottom: 1px dotted #e1e1e1;
+	color: #05b600;
+}
+.list:hover .time{
+	display: none;
+}
+.list:hover .song{
+	color: #05b600;
+}
