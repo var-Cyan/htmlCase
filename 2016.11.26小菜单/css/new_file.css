@@ -1,0 +1,89 @@
+body,dl,dd{
+	margin: 0;
+}
+img{
+	vertical-align: top;
+	border: none;
+}
+a{
+	text-decoration: none;
+}
+ul{
+	margin:0 ;
+	padding: 0;
+	list-style: none;
+}
+.clearfix:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+.box{
+	width: 968px;
+	height: 103px;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border: 1px solid #00BFFF;
+	background-color: #f3f3f3;
+}
+.list{
+	font:12px/18px "宋体";
+	padding-bottom: 8px;
+	border-bottom: 1px solid #e2e2e2;
+}
+.zong,.hei,.lan,.hui,.b,.c,.d,.e,.f{
+	float: left;
+}
+.lan{
+	width: 34px;
+	height: 18px;
+	background-color: #0066cc;
+	margin-left: 31px;
+	text-align: center;
+	color: #ffffff;
+}
+.zong{
+	color: #333333;
+	font-weight: bold;
+}
+.hui{
+	margin-left: 19px;
+	color: #444444;
+}
+.qianhui{
+	color: #b29487;
+}
+.huang{
+	float: right;
+	padding-right: 18px;
+	color: #ff9900;
+	background: url(../img/huang.jpg) no-repeat 28px 3px;
+}
+.jpd{
+	padding-top: 6px;
+}
+.b,.d{
+	width: 102px;
+	background: url(../img/liu.jpg) no-repeat ;
+}
+.c{
+	width: 78px;
+	background: url(../img/si.jpg) no-repeat ;
+}
+.b{
+	margin-left: 31px;
+}
+.e,.f{
+	width: 90px;
+	background: url(../img/wu.jpg) no-repeat ;
+}
+.c,.d,.e,.f{
+	margin-left: -1px;
+}
+.c,.d,.e,.f,.b{
+	height: 22px;
+	line-height: 22px;
+	padding-left: 11px ;
+	color: #FFFFFF ;
+}
