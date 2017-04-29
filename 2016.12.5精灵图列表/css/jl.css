@@ -1,0 +1,135 @@
+body{
+	margin: 0;
+}
+dl,dd{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+a{
+	text-decoration: none;
+	color: #16387c;
+}
+.clearfix:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+.list{
+	margin: 0 auto;
+	width: 147px;
+	height: 545px;
+	border-left:1px solid #c6d8e0;
+	border-top:1px solid #7b0099;
+}
+.title{
+	width: 80px;
+	height: 17px;
+	padding:7px 55px  7px 11px;
+	border-right:1px solid #b9c7d3 ;
+	background: url(../img/dt.jpg) no-repeat;
+}
+.titleleft{
+	
+	height: 17px;
+	width: 23px;
+	overflow: hidden;
+	background: url(../img/dt.jpg) no-repeat -146px 0 ;
+}
+.titletext{
+	font: 12px/17px "宋体";
+	margin-left: 9px;
+}
+.dd{
+	height: 16px;
+	width: 120px;
+	overflow: hidden;
+	padding: 8px 0 6px 14px;
+	background: url(../img/dt.jpg) no-repeat 0 -31px;
+}
+.ddleft{
+	width: 16px;
+	height: 16px;
+	overflow: hidden;
+	background:  url(../img/dt.jpg) no-repeat 0 -61px;
+}
+.ddtext{
+	
+	font: 12px/14px "宋体";
+	margin-left: 14px;
+
+}
+.ddright{
+	height: 7px;
+	width: 4px;
+	overflow: hidden;
+	background: url(../img/dt.jpg) no-repeat -16px -61px;
+	margin-top: 4px;
+}
+.cj{
+	background: url(../img/dt.jpg) no-repeat 0 -77px;
+}
+.yl{
+	background: url(../img/dt.jpg) no-repeat 0 -93px;
+}
+.ty{
+	background: url(../img/dt.jpg) no-repeat 0 -109px;
+}
+.ss{
+	background: url(../img/dt.jpg) no-repeat 0 -125px;
+	width: 17px;
+}
+.ssz{
+	margin-left: 13px;
+}
+.ly{
+	background: url(../img/dt.jpg) no-repeat 0 -141px;
+}
+.qc{
+	background: url(../img/dt.jpg) no-repeat 0 -157px;
+}
+.kj{
+	background: url(../img/dt.jpg) no-repeat 0 -173px;
+}
+.gy{
+	background: url(../img/dt.jpg) no-repeat 0 -188px;
+}
+.xx{
+	padding-bottom:5px ;
+}
+.xxym{
+	height: 18px;
+}
+.xxy{
+	color: #ff7800;
+}
+.xxym{
+	background: url(../img/dt.jpg) no-repeat 0 -206px;
+}
+.js{
+	background: url(../img/dt.jpg) no-repeat 0 -222px;
+}
+.wh{
+	background: url(../img/dt.jpg) no-repeat 0 -238px;
+}
+.sh{
+	background: url(../img/dt.jpg) no-repeat 0 -254px;
+}
+.lt{
+	background: url(../img/dt.jpg) no-repeat 0 -270px;
+}
+.zst{
+	background: url(../img/dt.jpg) no-repeat 0 -286px;
+}
+.xxcs{
+	background: url(../img/dt.jpg) no-repeat 0 -302px;
+}
+.jfb{
+	background: url(../img/dt.jpg) no-repeat 0 -318px;
+}
